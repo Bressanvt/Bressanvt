@@ -2,7 +2,7 @@ Olá Sou o Vitor
 
 
 - 🔭 Atualmente buscando oportunidades
-- 🌱 Estudando c# e mongodb
+- 🌱 Estudando python e ia´s
 - 📫 Contate me no email: vitorbressanvieira@outlook.com
 
 - <div align="center">
