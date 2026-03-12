@@ -1,29 +1,56 @@
-Olá, eu sou Vitor Bressan 👋
+# Olá, eu sou Vitor Bressan 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec
-💻 Formado em Técnico em Informática
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec
+💻 Formado em **Técnico em Informática**
 
-Sou interessado em desenvolvimento de software e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades em programação.
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em aprender e aprimorar minhas habilidades em programação, buscando sempre evoluir como desenvolvedor.
 
-🌱 Tecnologias que estou estudando
+---
 
-PHP
+## 🚀 Tecnologias que estudo
 
-Python
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-Git
+---
 
-MySQL
+## 🔭 Objetivo
 
-🔭 Objetivo
+Atualmente estou em busca de **oportunidades de estágio na área de tecnologia**, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e evoluir como desenvolvedor.
 
-Atualmente estou em busca de oportunidades de estágio na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e evoluir como desenvolvedor.
+---
 
-📫 Contato
+## 📌 Projetos
 
-Email: vitorbressanvieira@outlook.com
+📂 **Projetos que estou desenvolvendo ou estudando:**
 
-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bressanvt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bressanvt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+* Sistema de Fornecedores em PHP (POO)
+* Exercícios de programação em Python
+* Projetos acadêmicos da faculdade
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bressanvt&show_icons=true&theme=dracula" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bressanvt&layout=compact&theme=dracula" height="160"/>
+
 </div>
+
+---
+
+## 📫 Contato
+
+📧 Email: **[vitorbressanvieira@outlook.com](mailto:vitorbressanvieira@outlook.com)**
+
+---
+
+⭐ Sempre buscando aprender mais sobre programação e desenvolvimento de software.
+
+
+![snake gif](https://github.com/Bressanvt/Bressanvt/blob/output/github-contribution-grid-snake.svg)
