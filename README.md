@@ -32,6 +32,12 @@ Atualmente estou em busca de **oportunidades de estágio na área de tecnologia*
 
 ---
 
+## 📫 Contato
+
+📧 Email: **[vitorbressanvieira@outlook.com](mailto:vitorbressanvieira@outlook.com)**
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -44,13 +50,6 @@ Atualmente estou em busca de **oportunidades de estágio na área de tecnologia*
 
 ---
 
-## 📫 Contato
 
-📧 Email: **[vitorbressanvieira@outlook.com](mailto:vitorbressanvieira@outlook.com)**
-
----
 
 ⭐ Sempre buscando aprender mais sobre programação e desenvolvimento de software.
-
-
-![snake gif](https://github.com/Bressanvt/Bressanvt/blob/output/github-contribution-grid-snake.svg)
