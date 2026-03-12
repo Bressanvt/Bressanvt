@@ -1,9 +1,27 @@
-Olá Sou o Vitor 
+Olá, eu sou Vitor Bressan 👋
 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec
+💻 Formado em Técnico em Informática
 
-- 🔭 Atualmente buscando oportunidades
-- 🌱 Estudando python e machine learning
-- 📫 Contate me no email: vitorbressanvieira@outlook.com
+Sou interessado em desenvolvimento de software e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades em programação.
+
+🌱 Tecnologias que estou estudando
+
+PHP
+
+Python
+
+Git
+
+MySQL
+
+🔭 Objetivo
+
+Atualmente estou em busca de oportunidades de estágio na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e evoluir como desenvolvedor.
+
+📫 Contato
+
+Email: vitorbressanvieira@outlook.com
 
 - <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bressanvt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
