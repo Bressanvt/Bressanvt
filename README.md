@@ -2,7 +2,7 @@ Olá Sou o Vitor
 
 
 - 🔭 Atualmente buscando oportunidades
-- 🌱 Estudando python e ia´s
+- 🌱 Estudando python e machine learning
 - 📫 Contate me no email: vitorbressanvieira@outlook.com
 
 - <div align="center">
