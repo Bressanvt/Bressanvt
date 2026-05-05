@@ -1,7 +1,7 @@
 # Olá, eu sou Vitor Bressan 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec
-💻 Formado em **Técnico em Informática**
+💻 Formado em **Técnico em Informática** na Etec
 
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em aprender e aprimorar minhas habilidades em programação, buscando sempre evoluir como desenvolvedor.
 
