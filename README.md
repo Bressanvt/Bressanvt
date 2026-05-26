@@ -1,6 +1,7 @@
 # Olá, eu sou Vitor Bressan 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec 
+
 💻 Formado em **Técnico em Informática** na Etec
 
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em aprender e aprimorar minhas habilidades em programação, buscando sempre evoluir como desenvolvedor.
@@ -37,19 +38,5 @@ Atualmente estou em busca de **oportunidades de estágio na área de tecnologia*
 📧 Email: **[vitorbressanvieira@outlook.com](mailto:vitorbressanvieira@outlook.com)**
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bressanvt&show_icons=true&theme=dracula" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bressanvt&layout=compact&theme=dracula" height="160"/>
-
-</div>
-
----
-
-
 
 ⭐ Sempre buscando aprender mais sobre programação e desenvolvimento de software.
