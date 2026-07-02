@@ -1,6 +1,6 @@
 <h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bressanvt&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bressanvt&layout=compact&theme=dark" />
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
